@@ -12,7 +12,7 @@
   <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64px">
   <img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64px">
   <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64px">
-  <img align="center" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64px">
+  <img align="center" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64px">
 </div> <br> <br>
 
 
