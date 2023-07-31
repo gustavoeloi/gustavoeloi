@@ -6,10 +6,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoeloi&layout=compact&langs_count=7&theme=algolia"/>
 
-<p style="text-align: center"> ###Technologies & Tools </p> 
-
+##Technologies & Tools
 <div style="display: inline-block"> <br>
-  <p align="center">
+  <p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,spring,java,nodejs" />
   </a>
