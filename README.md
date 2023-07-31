@@ -9,10 +9,11 @@
 ### Technologies & Tools 
 
 <div style="display: inline-block"> <br>
-  <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64px">
-  <img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64px">
-  <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64px">
-  <img align="center" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64px">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,spring,java,nodejs" />
+  </a>
+</p>
 </div> <br> <br>
 
 
