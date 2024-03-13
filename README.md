@@ -10,7 +10,7 @@
 <div style="display: inline-block"> <br>
   <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,spring,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,spring,java,nodejs,react" />
   </a>
 </p>
 </div> <br> <br>
